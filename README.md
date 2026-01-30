@@ -40,3 +40,7 @@ I think there is space for an applied guide to getting started with embedded. Ju
     4. Keeping high-scores (sequential-storage)
     5. Adding randomness (Timers, TRNG)
     6. Talking to other machines (UART)
+
+## Contributing
+
+If you want to help me with writing of this book, you can do so by providing feedback on the basic idea and scenario. Later also by reviewing chapers and trying out excercises.
