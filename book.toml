@@ -1,0 +1,8 @@
+[book]
+title = "Top Down Embedded Rust"
+authors = ["Tamme Dittrich <tamme@tweedegolf.com>"]
+language = "en"
+src = "book"
+
+[build]
+build-dir = "target"

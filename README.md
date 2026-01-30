@@ -20,7 +20,7 @@ I think there is space for an applied guide to getting started with embedded. Ju
 
 ## Structure
 
-1. Getting running
+1. Getting up and running
     1. Discover the hardware
     2. Connect using probe-rs
     3. Print logs using defmt
