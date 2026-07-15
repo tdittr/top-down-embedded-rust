@@ -6,3 +6,8 @@ src = "book"
 
 [build]
 build-dir = "target"
+
+[output.html]
+git-repository-url = "https://github.com/tdittr/top-down-embedded-rust"
+edit-url-template = "https://github.com/tdittr/top-down-embedded-rust/edit/master/guide/{path}"
+site-url = "/top-down-embedded-rust/"
