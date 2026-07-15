@@ -1,6 +1,7 @@
 # Summary
 
-- [Intro](../README.md)
+[Intro](./intro.md)
+
 - [Getting up and running](./1-setup.md)
 - [Basic inputs and outputs](./2-gpio.md)
 - [Writing `no_std` logic and apps](./3-no_std.md)
