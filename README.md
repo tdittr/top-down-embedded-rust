@@ -1,6 +1,14 @@
 # Top Down Embedded Rust
 
+> [!WARNING]
+> This Books is still in work in progress state!
+
 This is going to be a guide/book/workshop for Rust engineers to learn about embedded system programming with Rust.
+
+> [!NOTE]
+> **Required Hardware**
+> 
+> To follow this book you will need a [BBC micro:bit v2](https://microbit.org/new-microbit/) and a way to connect your PC to its micro USB port. You can find a list of sellers on the [micro:bit website](https://microbit.org/buy/where/?version=microbitV2).
 
 ## Abstract
 
