@@ -2,6 +2,8 @@
 
 This is going to be a guide/book/workshop for Rust engineers to learn about embedded system programming with Rust.
 
+You can join our [Matrix channel](https://matrix.to/#/#top-down-embedded-rust:matrix.org) to join the conversation about the material.
+
 ## Abstract
 
 In this book we will be building a basic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game on the BBC micro:bit v2 using existing Rust tools and crates.
